@@ -1,0 +1,46 @@
+.card {
+	text-align: center;
+	border: ridge;
+	box-shadow: 11px 10px 8px 10px rgba(0, 0, 0, 0.08);
+	width: 350px;
+  margin: 10px auto;
+}
+
+.name{
+	padding: 8px;
+	text-align: justify;		
+}
+
+img{
+	width: 300px;
+}
+
+.text{	
+	border: ridge;
+	border-spacing: 400px;
+	width: fixed;
+    margin: auto;
+	position: relative;
+}
+
+.fact{
+	padding: 5px;
+	font-style: italic;
+	text-align: left;	
+}
+
+.info {
+	align-content: flex-start;
+	text-align: justify;
+	padding: 5px;
+}
+
+.list {
+ 	padding-left: 5px;
+ 	list-style-type: none;
+	text-align: left	
+}
+
+.lables{
+	font-weight: bold;
+}
